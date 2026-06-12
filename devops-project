@@ -1,0 +1,7 @@
+devops-project
+|
+|--Dockerfile
+|--Jenkinsfile
+|--k8s
+  |--deployment.yaml
+  |--service.yaml
